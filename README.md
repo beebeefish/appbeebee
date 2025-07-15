@@ -4,7 +4,8 @@
 
 我选择 vitepress就是因为它的速度够快，加上部署到vercel免费无需服务器，整体来说经济实惠又好用，值得大家使用。
 
-在线体验：[https://appbeebee.com](https://appbeebee.com)
+～～在线体验：[https://appbeebee.com](https://appbeebee.com)～～
+域名挂平台不小心交易掉了，现在变成赌博网站了，暂时不提供预览。可访问官方[https://beebee.work](https://beebee.work)
 
 ## 版本更新
 
